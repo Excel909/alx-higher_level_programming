@@ -1,0 +1,1 @@
+This code is to teach the basics about data structures
